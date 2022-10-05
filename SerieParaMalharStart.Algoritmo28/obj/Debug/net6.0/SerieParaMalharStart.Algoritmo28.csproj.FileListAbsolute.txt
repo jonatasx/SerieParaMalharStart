@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo28.exe
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo28.deps.json
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo28.runtimeconfig.json
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo28.dll
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo28.pdb
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.AssemblyInfo.cs
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.dll
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\refint\SerieParaMalharStart.Algoritmo28.dll
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.pdb
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo28.genruntimeconfig.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo28\obj\Debug\net6.0\ref\SerieParaMalharStart.Algoritmo28.dll

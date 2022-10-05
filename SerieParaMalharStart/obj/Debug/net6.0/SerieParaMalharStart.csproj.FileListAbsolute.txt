@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\net6.0\SerieParaMalharStart.exe
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\net6.0\SerieParaMalharStart.deps.json
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\net6.0\SerieParaMalharStart.runtimeconfig.json
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\net6.0\SerieParaMalharStart.dll
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\net6.0\SerieParaMalharStart.pdb
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.AssemblyInfo.cs
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.dll
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\refint\SerieParaMalharStart.dll
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.pdb
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\SerieParaMalharStart.genruntimeconfig.cache
+C:\Users\jonat\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\net6.0\ref\SerieParaMalharStart.dll
